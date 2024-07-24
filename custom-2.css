@@ -1,0 +1,55 @@
+/* ###########################################################################
+
+# CUSTOM_2.CSS v2 #
+
+COPYRIGHT SUN MICROSYSTEMS INC.
+
+IF YOU WISH TO ADD TO OR EDIT THIS CSS CONTACT webdesign -at- sun.com FIRST!
+
+NOTE: YOU *MUST* CHANGE ALL REFERENCES TO /IM TO REFLECT THE APPROPRIATE DIRECTORY.
+
+########################################################################### */
+
+.bbox {margin:0px;margin:0px 8px 0px 0px;float:left}
+#bbox4 {padding:0px}
+
+.vidlist img {display:block}
+
+div.vidsupport {text-align:right;background:transparent;padding:3px 6px}
+.k2tabs {height:167px;width:757px}
+.k2tab {height:28px;float:left}
+
+.k2tabcontent {height:140px;margin-top:0px;padding:0px;float:left}
+
+.k2notab {background:transparent;border-bottom:1px solid #a3af00;height:27px;float:left}
+
+a.imglink img{border-bottom:1px solid #f6f7e0}
+a.imglink:hover img{border-bottom:1px solid #3e6b8a}
+
+div.cs1w3 div.d7 div.d7v4 div.cornerBL{background:url("/im/generic_bl.gif") no-repeat bottom left transparent;border-top:none}
+div.cs1w1 {background:url("/im/bg_dkblue_to_lightgrey_lg.gif") repeat-x 0px 22px #EEE}
+div.d7v4{background:transparent}
+
+.d7v0 table tr td{background:url("images/bg_curve_1.gif") no-repeat top right #fff}
+
+div.cs1w3 div.d7v0{border-bottom:0px}
+div.cs1w3 div.d7 div.d7v4 div.cornerBR{padding:0px 0px 22px 12px}
+
+div.d7v0 table tr td.suntabactive a{color:#fff}
+div.d7v0 table tr td.suntabactive,table.suntabbg,div.d7v0 table tr td.suntabbg,th.suntabbg,tr.suntabbg td,tr.suntabbg th,table tr div.d7v0 table tr td.suntabbg,table tr th.suntabbg{background:#507c9a}
+div.d7v0 table tr td.suntabactive{background:#507c9a url("/im/bg_titlebar.gif") no-repeat left top;border-right:1px solid #FFF;padding:0px}
+div.d7v0 table tr td.suntabactive div{background:url("/im/a2_corner_tr.gif") no-repeat right top;padding:9px 7px 5px 7px}
+div.d7v0 table tr td.suntab{background:#CCDAE3 url("/im/d7_tab_bg.gif") repeat-x;border-right:1px solid #FFF;border-top:3px solid #FFF}
+div.d7v0 table tr td.suntab div{background:url("/im/corner_navblue_tr.gif") no-repeat right top;padding:9px 7px 5px 7px}
+div.d7v0 table tr td.suntab div{padding:6px 7px 3px 7px}
+div.d7v0 table tr td.suntab div a:visited{color:#35556B}
+div.suntabsubrow{padding:9px 7px 5px 7px;background:#507c9a}
+div.suntabsubrow,div.suntabsubrow span,div.d7v0 table tr td.suntabactive div{font-weight:bold;color:#FFF}
+div.suntabsubrow a{font-weight:normal;color:#CCDAE3}
+div.suntabsubrow span a:visited,div.suntabsubrow span a:visited b,div.suntabsubrow span a b{color:#FFF}
+
+#callnow ul{margin:0px;padding:0px;list-style:none;padding:4px 5px 7px 1px}
+#callnow li{margin:0px;padding:0px;list-style-image:url("/im/a.gif");padding:1px 0px 1px 21px;font-weight:bold;background-position:2px 2px;background-repeat:no-repeat}
+#callnow li.phone{background-image:url("images/ic_phone_dark.gif")}
+#callnow li.chat{background-image:url("images/ic_chat_dark.gif")}
+#callnow p {margin:0px 0px 4px 3px}
